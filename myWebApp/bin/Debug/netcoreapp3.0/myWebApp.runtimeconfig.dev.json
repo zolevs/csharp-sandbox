@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zole\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zole\\.nuget\\packages"
+    ]
+  }
+}
